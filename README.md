@@ -1,2 +1,101 @@
 # saminsta
 we are not responsible for any misuse of this tool 
+# Instagram Bruteforce
+
+This program will brute force any Instagram account you send it its way. Just give it a target, a password list and a mode then press enter and forget about it. No need to worry about anonymity when using this program, its highest priority is your anonymity, it only attacks when your identity is hidden.
+# Requirements
+
+-   Python v3
+-   ~~Linux~~
+-   ~~TOR~~
+-   ~~   ~~
+
+# Install Dependencies
+
+```
+pip3 install -r requirements.txt
+```
+
+# Usage
+
+```
+python3 instagram.py <username> <wordlist> -m <mode>
+```
+
+# Bots(Threads)
+
+-   4 bots: 64 passwords at a time
+-   8 bots: 128 passwords at a time
+-   16 bots: 256 passwords at a time
+-   32 bots: 512 passwords at a time
+
+# Modes
+
+-   0: 32 bots
+-   1: 16 bots
+-   2: 8 bots
+-   3: 4 bots
+
+# Chill mode
+
+This mode uses only 4 bots, or 64 passwords at a time.
+
+```
+python3 instgram.py username  pass.txt -m 3
+```
+
+# Moderate mode 1
+
+This mode uses 8 bots, or 128 passwords at a time.
+
+```
+python3 instgram.py username  pass.txt -m mode no 2
+
+```
+
+# Moderate mode 2
+
+This mode uses 16 bots, or 256 passwords at a time.
+
+```
+python3 instgram.py username  pass.txt -m 1
+
+```
+
+# Savage mode
+
+This mode uses 32 bots, or 512 passwords at a time.
+
+```
+
+```
+
+# If you don't specify a mode, then mode is set to 2
+
+# Run
+
+```
+[-] Wordlist: pass.lst
+[-] Username: Sami09.1
+[-] Password: 272
+[-] Complete: 45.51%
+[-] Attempts: 228
+[-] Browsers: 273
+[-] Exists: True
+```
+
+### Stop
+
+```
+[-] Wordlist: pass.lst
+[-] Username: Sami09.1
+[-] Password: Sami123
+[-] Complete: 62.67%
+[-] Attempts: 314
+[-] Browsers: 185
+[-] Exists: True
+
+[!] Password Found
+[+] Username: Sami09.1
+[+] Password: Sami123
+```
