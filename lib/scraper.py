@@ -1,7 +1,3 @@
-# Date: 12/28/2018
-# Author: Mohamed
-# Description: Proxy scraper
-
 from time import sleep
 from requests import get
 from .proxy import Proxy
