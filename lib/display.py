@@ -67,10 +67,10 @@ class Display(object):
 
         else:
             print(
-                f'[-] Wordlist: {self.passlist}\n[-] Username: {self.username}\n[-] Password: {password}')
+                f'[-] Wordlist: {self.passlist}\n[-] Username: {self.username}\n[-] password: {password}')
 
             print(
-                f'Complete: {complete}\n[-] Attempts: {attempts}\n[-] Browsers: {browsers}\n[-] Exists: {account_exists}')
+                f'Complete: {complete}\n[-] Try: {attempts}\n[-] Browsers: {browsers}\n[-] Hacked: {account_exists}')
 
         if load:
             sleep(self.delay)
