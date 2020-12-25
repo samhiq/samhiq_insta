@@ -1,7 +1,3 @@
-# 12/29/2018
-# Author: Mohamed
-# Description: Display
-
 from os import system
 from time import sleep
 from .const import debug
