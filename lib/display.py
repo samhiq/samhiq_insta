@@ -45,15 +45,15 @@ class Display(object):
                 Fore.YELLOW, Fore.WHITE, Fore.CYAN, self.username.title(), Fore.RESET
             ))
 
-            print('{0}[{1}-{0}] {1}Password: {2}{3}{4}'.format(
+            print('{0}[{1}-{0}] {1}Passwd: {2}{3}{4}'.format(
                 Fore.YELLOW, Fore.WHITE, Fore.CYAN, password, Fore.RESET
             ))
 
-            print('{0}[{1}-{0}] {1}Complete: {2}{3}%{4}'.format(
+            print('{0}[{1}-{0}] {1}Accuracy: {2}{3}%{4}'.format(
                 Fore.YELLOW, Fore.WHITE, Fore.CYAN, complete, Fore.RESET
             ))
 
-            print('{0}[{1}-{0}] {1}Attempts: {2}{3}{4}'.format(
+            print('{0}[{1}-{0}] {1}Try: {2}{3}{4}'.format(
                 Fore.YELLOW, Fore.WHITE, Fore.CYAN, attempts, Fore.RESET
             ))
 
@@ -61,7 +61,7 @@ class Display(object):
                 Fore.YELLOW, Fore.WHITE, Fore.CYAN, browsers, Fore.RESET
             ))
 
-            print('{0}[{1}-{0}] {1}Exists: {2}{3}{4}'.format(
+            print('{0}[{1}-{0}] {1}Hacked: {2}{3}{4}'.format(
                 Fore.YELLOW, Fore.WHITE, Fore.CYAN, account_exists, Fore.RESET
             ))
 
