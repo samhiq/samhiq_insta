@@ -1,6 +1,5 @@
-# Date: 05/05/2018
-# Author: Mohamed
-# Description: Session Handler
+# Date: 12/11/2020
+# Modified by: Samhr
 
 import json
 import sqlite3
