@@ -41,7 +41,7 @@ class Display(object):
                 Fore.YELLOW, Fore.WHITE, Fore.CYAN, self.passlist, Fore.RESET
             ))
 
-            print('{0}[{1}-{0}] {1}Username: {2}{3}{4}'.format(
+            print('{0}[{1}-{0}] {1}User bruteforce id: {2}{3}{4}'.format(
                 Fore.YELLOW, Fore.WHITE, Fore.CYAN, self.username.title(), Fore.RESET
             ))
 
@@ -61,7 +61,7 @@ class Display(object):
                 Fore.YELLOW, Fore.WHITE, Fore.CYAN, browsers, Fore.RESET
             ))
 
-            print('{0}[{1}-{0}] {1}Hacked: {2}{3}{4}'.format(
+            print('{0}[{1}-{0}] {1}Hacked Info: {2}{3}{4}'.format(
                 Fore.YELLOW, Fore.WHITE, Fore.CYAN, account_exists, Fore.RESET
             ))
 
@@ -117,7 +117,7 @@ class Display(object):
                 Fore.YELLOW, Fore.RED, Fore.WHITE, Fore.RESET
             ))
         else:
-            print('\n[!] Shutting Down ...')
+            print('\n[!] Shutting Down samhrig...')
 
         sleep(self.delay)
 
