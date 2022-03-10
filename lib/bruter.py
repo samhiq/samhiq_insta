@@ -1,6 +1,6 @@
-# Date: 12/28/2018
-# Author: Mohamed
-# Description: Bruter
+# Date: 04/02/2021
+# Author: Samhiq
+# Description: Instgram Bruter
 
 from time import time, sleep
 from lib.browser import Browser
