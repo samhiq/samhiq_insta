@@ -1,5 +1,5 @@
 # Description: Instagram bruter
-
+#Coded & Updated by Samhiq
 from sys import exit
 from os.path import exists
 from lib.bruter import Bruter
