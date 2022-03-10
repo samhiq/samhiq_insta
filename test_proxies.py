@@ -1,5 +1,5 @@
 '''
-Modified by Samhr
+Coded By Samhiq
 '''
 
 import platform
