@@ -1,6 +1,6 @@
-# Date: 12/28/2018
-# Author: Mohamed
-# Description: A list that will manage proxies 
+# Date: 12/28/2020
+# Author: Samhiq
+# Description: Manage Proxy
 
 
 class ProxyList(object):
