@@ -1,5 +1,5 @@
 # Date: 12/11/2020
-# Modified by: Samhr
+# Coded by :Samhiq
 
 from time import sleep
 from hashlib import sha256
