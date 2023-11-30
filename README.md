@@ -24,14 +24,14 @@ Ensure you have Python v3 and Tor installed to harness the capabilities of SamIn
 Execute the following command to run SamInsta:
 
 ```
-python3 instagram.py <username> <wordlist> -m <mode>
+python3 samhrig.py <username> <wordlist> -m <mode>
 ```
 
 Replace `<username>` with the target Instagram account, `<wordlist>` with the path to your password list, and `<mode>` with the desired attack mode.
 
 **Example:**
 ```
-python3 instagram.py target_user passwords.txt -m aggressive
+python3 samhrig.py target_user passwords.txt -m aggressive
 ```
 
 Use this tool responsibly, ensuring proper authorization before any testing.
