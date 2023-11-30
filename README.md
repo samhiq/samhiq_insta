@@ -1,7 +1,6 @@
-```markdown
 # SamInsta - Instagram Account Bruteforce Tool ☠️
 
-**Disclaimer: We are not responsible for any misuse of this tool. Use it responsibly and ethically.**
+**Disclaimer: 🚨 We are not responsible for any misuse of this tool. Use it responsibly and ethically.**
 
 ## Introduction
 
@@ -13,33 +12,28 @@ This tool should only be used for ethical and educational purposes. Unauthorized
 
 ## Requirements
 
-- Python v3
-- Tor
+- 🐍 Python v3
+- 🔒 Tor
 
 ## Installation
 
-To install the required dependencies, run the following command:
-
-```bash
-pip3 install -r requirements.txt
-```
+To use SamInsta, ensure you have Python v3 and Tor installed.
 
 ## Usage
 
-Follow these steps to use SamInsta:
+To run SamInsta, execute the following command:
 
-```bash
+```
 python3 instagram.py <username> <wordlist> -m <mode>
 ```
 
 Replace `<username>` with the target Instagram account, `<wordlist>` with the path to your password list, and `<mode>` with the desired attack mode.
 
 **Example:**
-```bash
+```
 python3 instagram.py target_user passwords.txt -m aggressive
 ```
 
 Use this tool responsibly and ensure you have proper authorization before testing any accounts.
 
 **Happy testing!** 🚀
-```
