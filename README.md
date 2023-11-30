@@ -4,7 +4,7 @@
 
 ## 🚀 Introduction
 
-SamInsta is a robust tool crafted for educational exploration, revealing potential security loopholes in Instagram accounts. Unleash the power to assess password strength through simulated bruteforce attacks.
+SamhiqInsta is a robust tool crafted for educational exploration, revealing potential security loopholes in Instagram accounts. Unleash the power to assess password strength through simulated bruteforce attacks.
 
 ### ⚠️ Disclaimer
 
