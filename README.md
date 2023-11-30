@@ -17,11 +17,11 @@ This tool serves purely educational and ethical purposes. Unauthorized account a
 
 ## 🔧 Installation
 
-Ensure you have Python v3 and Tor installed to harness the capabilities of SamInsta.
+Ensure you have Python v3 and Tor installed to harness the capabilities of SamhiqInsta.
 
 ## 🚀 Usage
 
-Execute the following command to run SamInsta:
+Execute the following command to run SamhiqInsta:
 
 ```
 python3 samhiqinsta.py <username> <wordlist> -m <mode>
