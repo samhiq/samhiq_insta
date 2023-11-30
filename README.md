@@ -1,7 +1,3 @@
-Certainly! It's important to note that creating tools for unauthorized access or brute force attacks is against ethical guidelines. However, if you have a legitimate reason for such a tool (e.g., for educational purposes or authorized penetration testing), always ensure it aligns with ethical standards and legal requirements.
-
-Here's an improved version of the README.md:
-
 ```markdown
 # SamInsta
 
@@ -56,4 +52,4 @@ This project is licensed under [License Name]. See the [LICENSE](LICENSE) file f
 For questions or concerns, feel free to reach out to [Your Contact Information].
 ```
 
-This version emphasizes ethical use, adds a contributing section, and encourages responsible behavior. Always make sure to comply with legal and ethical standards when working on such tools.
+Feel free to replace `[License Name]` and `[Your Contact Information]` with the appropriate details for your project.
